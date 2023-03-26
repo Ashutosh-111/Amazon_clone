@@ -1,0 +1,80 @@
+.navbar_main{
+    background-color: black;
+    height: 60px;
+    align-items: center;
+    display: flex;
+    /* display: inline-block; */
+}
+
+.img_logo{
+    width: 110px;
+    margin-top: 10px;
+}
+.navbar_search{
+    margin-left: 5px;
+    display: flex;
+    flex: 1;
+    align-items: center;
+    
+}
+
+.navbar_search_bar{
+    width: 100%;
+    height: 25px;
+    
+    
+}
+.navbar_searchicon{
+    background-color: rgb(255, 187, 0);
+padding: 4px;
+height: 26px;    
+    
+}
+.navbar_option{
+    display: flex;
+    color: white;
+    /* justify-content: space-evenly; */
+}
+
+.navbar_guest_sign{
+    display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  margin-right: 10px;
+  /* color: white; */
+}
+
+.navbar_guest{
+    /* margin: 10px 10px; */
+    
+}
+
+.navbar_signin{
+    /* margin: 10px 10px; */
+}
+.navbar_return_order{
+    display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  margin-right: 10px;
+
+}
+
+.navbar_returns{
+    /* margin: 10px 10px; */
+}
+
+.navbar_orders{
+    /* margin: 10px 10px; */
+}
+.navbar_cart{
+    display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  margin-right: 10px;
+
+}
+
+.navbar_basket{
+    /* margin: 10px 10px; */
+}
