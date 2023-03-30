@@ -1,34 +1,40 @@
-.product{
+.product {
 
     margin: 10px 10px;
     width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
 
 }
-.product_info{
+
+.product_info {
 
     max-width: fit-content;
     background-color: white;
+    padding: 10px 10px;
 
 }
-.product_title{
 
+.product_title {}
 
-}
-.product_price{
+.product_price {}
 
-}
-.product_rating{
-    display:flex;
+.product_rating {
+    display: flex;
     color: rgb(250, 183, 26);
 
 }
-.product_img{
+
+.product_img {
 
     object-fit: contain;
     height: 200px;
     width: 100%;
 
 }
-.submit_button{
-    width: 345px ;
+
+.submit_button {
+    width: 345px;
 }
