@@ -19,6 +19,7 @@ function Items() {
         image="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81KoSSAwH2L._SL1500_.jpg"
         rating={3} />        
     </div>
+    
   )
 }
 
